@@ -2,4 +2,3 @@
 node_modules
 src/public/images
 api.http
-package-lock.json
